@@ -1,9 +1,6 @@
 # 🌐 Serverless CDN Proxy for Private S3-Compatible Buckets
 
 > Securely serve private content globally using AWS CloudFront + Lambda Function URLs — without managing any servers.
-
-![Architecture Overview](docs/architecture.png)
-
 ---
 
 ## 🚀 Overview
